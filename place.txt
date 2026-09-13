@@ -1,1 +1,2 @@
 This is the text from the branch you are trying to pull in.
+This is the text on your current branch.
